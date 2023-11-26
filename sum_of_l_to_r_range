@@ -50,7 +50,7 @@ const ll BASE = 256;
     
     for1(i,n)cin>>vec[i];
     
-    ll len=sqrt(n);
+    ll len=sqrt(n)+1;
     
     vector<ll>v(len,0);
     
